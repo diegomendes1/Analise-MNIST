@@ -3,7 +3,7 @@ Análise dos hiperparâmetros para a classificação de dígitos com CNN a parti
 
 Trabalho EM GRUPO feito para a disciplina de Redes Neurais.
 
-Agradeço aos integrantes do grupo:
+Agradeço aos outros integrantes do grupo:
 - Diego Alves da Silva
 - Paulo Guilherme Silva Albuquerque
 - Rafael Góes de Azevedo Moreira
