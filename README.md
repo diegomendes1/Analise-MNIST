@@ -1,4 +1,4 @@
-# Analise-MNIST
+# Análise de Hiperparâmetros Com MNIST
 Análise dos hiperparâmetros para a classificação de dígitos com CNN a partir da base de dados Mnist.
 
 Trabalho EM GRUPO feito para a disciplina de Redes Neurais.
